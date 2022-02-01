@@ -1,2 +1,2 @@
 
-dsf
+print ('Hello world')
